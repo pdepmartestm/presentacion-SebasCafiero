@@ -1,5 +1,4 @@
-# presentacion-SebasCafiero
-presentacion-SebasCafiero created by GitHub Classroom
+# Mi Presentación
 
 Buenas!! Me llamo Sebastián Cafiero y tengo 21 años.
 
@@ -11,4 +10,4 @@ Soy fanático del tenis (Team Roger) y llevo a Boca en el corazón. También me 
 
 No se asusten, sólo soy yo en la siguiente imagen:
 
-
+![Sebas Cafiero](https://github.com/pdepmartestm/presentacion-SebasCafiero/blob/master/fotoGithub.jpg)
