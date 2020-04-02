@@ -9,6 +9,6 @@ Soy técnico electrónico y me gusta la informática. Pensaba este año buscar a
 
 Soy fanático del tenis (Team Roger) y llevo a Boca en el corazón. También me gusta mucho la música y el cine.
 
-No se asusten, soy sólo yo en la siguiente imagen:
+No se asusten, sólo soy yo en la siguiente imagen:
 
 
