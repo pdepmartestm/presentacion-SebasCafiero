@@ -8,6 +8,8 @@ Soy técnico electrónico y me gusta la informática. Pensaba este año buscar a
 
 Soy fanático del tenis (Team Roger) y llevo a Boca en el corazón. También me gusta mucho la música y el cine.
 
+Mis gustos musicales se deben principalmente a la música clásica y a los Beatles. Pero escucho música muy variada, desde el pop, rock y hasta country o jazz. Cualquier cantante o grupo que armonice bien los sonidos se puede ganar mis respetos (aguantaaa, tanta formalidad).
+
 No se asusten, sólo soy yo en la siguiente imagen:
 
 ![Sebas Cafiero](https://github.com/pdepmartestm/presentacion-SebasCafiero/blob/master/fotoGithub.jpg)
